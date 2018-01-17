@@ -1,0 +1,51 @@
+/* GERAL */
+h1 {
+    color: #0d3b66;
+}
+
+.instafeed {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.slick-slide {
+    margin: 4px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-prev {
+    left: 5px;
+    z-index: 5;
+}
+
+.slick-next {
+    right: 5px;
+}
+
+.slick-prev:before {
+    color: #0d3b66;
+}
+
+.slick-next:before {
+    color: #0d3b66;
+}
+
+
+
+/********************
+    FOOTER 
+********************/
+
+footer .copyright{
+    padding:5px 0 5px;
+    font-size:1.1em;
+}
+
+footer .copyright a{
+    color:#0d3b66;
+    text-decoration: none;
+}
+
