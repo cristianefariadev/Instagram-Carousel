@@ -1,6 +1,6 @@
 /* GERAL */
 h1 {
-    color: #0d3b66;
+    color: #000;
 }
 
 .instafeed {
@@ -26,11 +26,11 @@ h1 {
 }
 
 .slick-prev:before {
-    color: #0d3b66;
+    color: #000;
 }
 
 .slick-next:before {
-    color: #0d3b66;
+    color: #000;
 }
 
 
@@ -45,7 +45,7 @@ footer .copyright{
 }
 
 footer .copyright a{
-    color:#0d3b66;
+    color:#000;
     text-decoration: none;
 }
 

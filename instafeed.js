@@ -1,10 +1,11 @@
 var feed = new Instafeed({
 
     get: 'user',
-    userId: 6925080228,
-    accessToken: '6925080228.1677ed0.7542f8fec5484fb686e6187da4bf6d8f',
+    userId: 8411780163,
+    accessToken: '8411780163.aeeff59.d2604cb0ac724e0c8d71957e0edce600',
     template: '<div><img src="{{image}}" title="{{caption}}"/></div>',
     target: 'instafeed',
+    resolution: 'standard_resolution',
     after: function () {
         $('#instafeed').slick({
             dots: false,
